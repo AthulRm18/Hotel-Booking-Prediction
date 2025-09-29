@@ -1,9 +1,9 @@
 Hotel Booking Cancellation Prediction
+
 This repository contains a machine learning project to predict hotel booking cancellations using a Random Forest Classifier. The model is built within a Scikit-learn Pipeline, ensuring a reproducible and robust workflow.
 
 🚀 Overview
-The goal is to predict whether a hotel booking will be canceled based on historical booking data. This model can help hotel managers optimize their booking policies and revenue. The project covers the entire data science lifecycle from data cleaning and feature selection to model training and evaluation.
-
+The goal is to predict whether a hotel booking will be canceled based on historical booking data. This model can help hotel managers optimize their booking policies and revenue.
 🛠️ Tech Stack
 Python
 
